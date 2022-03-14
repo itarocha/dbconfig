@@ -1,4 +1,4 @@
-package br.com.itarocha.dbimport;
+package br.com.itarocha.dbexport;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
